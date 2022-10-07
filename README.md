@@ -6,5 +6,6 @@ What I did differently:
 
 - Used Project Lombok
 - Gave the transaction responsibility to a controller
+- Custom exceptions
 
 I had to stop the exercise abruptelly, since I was getting Ideas on how to implement security and a front-end; this is suposed to be a very simple terminal application.
